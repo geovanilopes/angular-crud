@@ -35,3 +35,4 @@ export class ProductUpdateComponent implements OnInit {
     this.router.navigate(["/products"]);
   }
 }
+
